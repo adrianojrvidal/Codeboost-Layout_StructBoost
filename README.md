@@ -24,3 +24,7 @@ Projeto básico de layout com Html e Css
 
 - Organização do CSS.
 - Criação de padrões (componentes) que se repetem no projeto.
+
+### Parte 4 - Exportando imagens do Figma
+
+- Exportação das imagens utilziadas no Figma.
