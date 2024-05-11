@@ -19,3 +19,8 @@ Projeto básico de layout com Html e Css
 - Definição de variáveis de cores.
 - Configuração de padrões de tipografia.
 - Criação do Grid principal (layout).
+
+### Parte 3 - Criando os componentes
+
+- Organização do CSS.
+- Criação de padrões (componentes) que se repetem no projeto.
