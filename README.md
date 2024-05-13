@@ -34,3 +34,8 @@ Projeto básico de layout com Html e Css
 - Codificando o Header do projeto.
 - Uso de tags semânticas e display flex.
 
+### Parte 6 - Section Hero
+
+- Codificando a Section Hero do projeto.
+- Lembrando que amplamente utilizado no universo web, um hero é uma seção que tem como objetivo destacar algo, ocupando toda a largura da tela (e opcionalmente toda a altura), preenchendo-a geralmente com uma imagem ou uma cor de fundo, aplicando sempre uma ideia central.
+- Uso dos conceitos overflow, z-index, position relative e absolut, ::before e ::after.
