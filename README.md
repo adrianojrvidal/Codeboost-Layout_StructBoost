@@ -28,3 +28,9 @@ Projeto básico de layout com Html e Css
 ### Parte 4 - Exportando imagens do Figma
 
 - Exportação das imagens utilziadas no Figma.
+
+### Parte 5 - Header
+
+- Codificando o Header do projeto.
+- Uso de tags semânticas e display flex.
+
