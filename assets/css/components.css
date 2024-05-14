@@ -11,6 +11,7 @@
 
 .btn-primary.white {
     background-color: white;
+    border: none;
 }
 
 .btn-primary.lg {

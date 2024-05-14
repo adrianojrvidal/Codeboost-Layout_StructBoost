@@ -165,5 +165,28 @@ header nav li a:hover {
     grid-column: span 2;
 } 
 
+.s-newsletter {
+    background-color: var(--pink-10);
+    padding: 8.9rem 0;
+}
+
+.s-newsletter .container {
+    text-align: center;
+}
+
+.s-newsletter h2 {
+    max-width: 64.6rem;
+    margin: 0 auto;
+    margin-bottom: 1.6rem;
+    font-weight: 600;
+    letter-spacing: -1.44px;
+}
+
+.s-newsletter p {
+    max-width: 68.7rem;
+    margin: 0 auto;
+    margin-bottom: 2.4rem;
+}
+
 
 
