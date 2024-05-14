@@ -50,6 +50,10 @@ Projeto básico de layout com Html e Css
 - Codificando a section "s-art".
 - Posicionamento de componentes, previamente codificados, com Display GRID.
 
-### Parte 8 - Section "newsletter"
+### Parte 9 - Section "newsletter"
 
 - Codificando a section "s-newsletter".
+
+### Parte 10 - Footer
+
+- Codificando o Footer.
