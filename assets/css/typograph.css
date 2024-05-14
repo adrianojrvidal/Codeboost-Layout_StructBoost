@@ -4,7 +4,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--gray-800);
+    color: var(--gray-100);
     font-family: 'Sora', sans-serif;
     line-height: 120%;
 }
@@ -48,4 +48,5 @@ h6 {
 p {
     font-size: 1.8rem;
     line-height: 150%;
+    color: var(--gray-100);
 }

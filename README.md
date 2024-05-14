@@ -36,6 +36,11 @@ Projeto básico de layout com Html e Css
 
 ### Parte 6 - Section Hero
 
-- Codificando a Section Hero do projeto.
+- Codificando a Section Hero ("s-hero") do projeto.
 - Lembrando que amplamente utilizado no universo web, um hero é uma seção que tem como objetivo destacar algo, ocupando toda a largura da tela (e opcionalmente toda a altura), preenchendo-a geralmente com uma imagem ou uma cor de fundo, aplicando sempre uma ideia central.
 - Uso dos conceitos overflow, z-index, position relative e absolut, ::before e ::after.
+
+### Parte 7 - Section "Transformando Ideias em Realidade Digital!"
+
+- Codificando a section "s-digital".
+- Posicionamento de componentes, previamente codificados, com Display Flex.
