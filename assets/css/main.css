@@ -121,6 +121,49 @@ header nav li a:hover {
     padding-bottom: 12.8rem;
 }
 
+.s-arte {
+ padding: 12.8rem 0;
+} 
+
+.s-arte .text {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-bottom: 6.4rem;
+} 
+
+.s-arte .text-left {
+    max-width: 53.9rem;
+}
+
+.s-arte .text-right {
+    max-width: 42.9rem;
+}
+
+.s-arte .text p {
+    color: var(--gray-600);
+    letter-spacing: -0.54px;
+    margin-top: 16px;
+} 
+
+.s-arte .text .text-left p {
+   max-width: 45.2rem;
+} 
+
+.s-arte .text .text-left h3 {
+    letter-spacing: -1.5px;
+    font-weight: 600;
+} 
+
+.s-arte .cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3.2rem;
+} 
+
+.s-arte .cards .card-post:first-child {
+    grid-column: span 2;
+} 
 
 
 

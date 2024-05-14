@@ -44,3 +44,8 @@ Projeto básico de layout com Html e Css
 
 - Codificando a section "s-digital".
 - Posicionamento de componentes, previamente codificados, com Display Flex.
+
+### Parte 8 - Section "Domine a Arte do Front-end"
+
+- Codificando a section "s-art".
+- Posicionamento de componentes, previamente codificados, com Display GRID.
