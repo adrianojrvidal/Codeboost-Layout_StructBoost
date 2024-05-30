@@ -57,3 +57,10 @@ Projeto básico de layout com Html e Css
 ### Parte 10 - Footer
 
 - Codificando o Footer.
+
+### Parte 11 - Responsividade (Parte 1)
+
+- Utilizando media query (@media).
+- Aplicando responsividade no header.
+- Aplicando responsividade na section "s-hero".
+- Aplicando responsividade na section "s-digital".

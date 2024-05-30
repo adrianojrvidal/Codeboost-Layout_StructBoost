@@ -29,7 +29,7 @@
 }
 
 .item-digital {
-    flex-grow: 1;
+    width: 100%;
     max-width: 38.4rem;
 }
 
@@ -92,3 +92,4 @@
     font-size: 1.6rem;
     color: var(--gray-600);
 }
+
