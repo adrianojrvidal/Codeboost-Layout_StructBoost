@@ -64,3 +64,9 @@ Projeto básico de layout com Html e Css
 - Aplicando responsividade no header.
 - Aplicando responsividade na section "s-hero".
 - Aplicando responsividade na section "s-digital".
+
+### Parte 12 - Responsividade (Parte 2)
+
+- Aplicando responsividade na section "s-arte".
+- Aplicando responsividade na section "s-newsletter".
+- Aplicando responsividade no footer.
