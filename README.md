@@ -70,3 +70,8 @@ Projeto básico de layout com Html e Css
 - Aplicando responsividade na section "s-arte".
 - Aplicando responsividade na section "s-newsletter".
 - Aplicando responsividade no footer.
+
+### Parte 13 - Animações
+
+- Aplicação de efeitos com Keyframes.
+- Aplicação de efeitos com a biblioteca AOS (Animate On Scroll Library).

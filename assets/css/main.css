@@ -78,18 +78,19 @@ header nav li a:hover {
     position: absolute;
     bottom: 1.7rem;
     left: 5.5rem;
+    animation: floating 1s ease-in-out infinite;
 }
 
 .s-hero .text h1::before {
     content: '';
-    width: 100%;
     max-width: 59.9rem;
     height: 2.2rem;
-    background: url("/assets/images/line-title.svg") no-repeat center center;
+    background: url("/assets/images/line-title.svg") no-repeat left center;
     position: absolute;
     bottom: -5px;
     left: 3.9rem;
     z-index: -1;
+    animation: drawLine 2s 0.5s ease-in forwards;
 }
 
 .s-hero::after{
@@ -492,6 +493,27 @@ footer .copy strong {
         font-size: 1.4rem;
         text-align: center;
     }
+}
 
+/* ANIMAÇÕES */
 
+@keyframes drawLine {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes floating {
+    0% {
+        transform: translateX(0px);
+    }
+    50% {
+        transform: translateX(15px)
+    }
+    100% {
+        transform: translateX(0px)
+    }
 }
