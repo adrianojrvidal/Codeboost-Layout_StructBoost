@@ -2,6 +2,12 @@
 
 Projeto básico de layout com Html e Css
 
+*LINK do Projeto*:
+
+<https://layout-structboost.netlify.app/>
+
+![Gif da página](/assets/images/Structboot-gif.gif)
+
 ## Structboost - 1° Projeto do Codeboost
 
 *LINK do Figma:*
