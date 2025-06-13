@@ -4,7 +4,7 @@ Projeto básico de layout com Html e Css
 
 *LINK do Projeto*:
 
-<https://adrianojrvidal.github.io/Codeboost-Layout_StructBoost/>
+<a href="https://adrianojrvidal.github.io/Codeboost-Layout_StructBoost" target="_blank">https://adrianojrvidal.github.io/Codeboost-Layout_StructBoost</a>
 
 ![Gif da página](/assets/images/Structboot-gif.gif)
 
