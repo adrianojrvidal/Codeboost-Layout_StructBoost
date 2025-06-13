@@ -4,7 +4,7 @@ Projeto básico de layout com Html e Css
 
 *LINK do Projeto*:
 
-<https://layout-structboost.netlify.app/>
+<https://adrianojrvidal.github.io/Codeboost-Layout_StructBoost/>
 
 ![Gif da página](/assets/images/Structboot-gif.gif)
 
